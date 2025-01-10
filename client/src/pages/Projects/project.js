@@ -35,7 +35,7 @@ const Projects = () => {
                     Helping Hands
                   </h5>
                 </div>
-                <a className="ad-btn" href="https://helping-hands-deployement2.netlify.app/">
+                <a className="ad-btn" href="https://job-five-kappa.vercel.app/">
                   View
                 </a>
               </div>
@@ -87,13 +87,70 @@ const Projects = () => {
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://anshika-26.github.io/WordWise.github.io/"
+                  href="https://anshika-26.github.io/WordWise/"
                 >
                   View
                 </a>
               </div>
             </div>
           </div>
+        </div>
+
+        <div className="row" id="ads">
+          <div className="col-md-4">
+            <div className="card rounded">
+              <div className="card-image">
+                <span className="card-notify-badge">Full stack</span>
+                <img
+                  src="https://t4.ftcdn.net/jpg/03/60/32/39/360_F_360323951_XtIbMPnjD5zHOmSh2CFpKvo4jvkPXjau.jpg"
+                  alt="project1"
+                />
+              </div>
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">Node</span>
+                <span className="card-detail-badge">Express</span>
+                <span className="card-detail-badge">React</span>
+                <span className="card-detail-badge">Mongo</span>
+
+              </div>
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <h5 className="text-uppercase">
+                    Care Circle
+                  </h5>
+                </div>
+                <a className="ad-btn" href="https://carecircle-gamma.vercel.app/">
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div className="card rounded">
+              <div className="card-image">
+                <span className="card-notify-badge">UI-UX</span>
+                <img
+                  src="https://www.columnfivemedia.com/wp-content/uploads/2021/03/Data-visualization-design-1.png"
+                  alt="project2"
+                />
+              </div>
+              <div className="card-image-overly m-auto mt-3">
+                <span className="card-detail-badge">Figma</span>
+              </div>
+              <div className="card-body text-center">
+                <div className="ad-title m-auto">
+                  <h5 className="text-uppercase">Celeix</h5>
+                </div>
+                <a
+                  className="ad-btn"
+                  href="https://www.figma.com/proto/iyQagoPYkeTHmFIOTkRB1E/celeix?node-id=73-96&p=f&t=49i0PzedDbMIIR2W-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=73%3A36"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+          </div>
+          
         </div>
       </div>
     </>
